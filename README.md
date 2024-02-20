@@ -136,7 +136,7 @@ resource "aws_db_instance" "mysql" {
 
 
 
-variable 
+# variable 
 
 
 variable "vpc_cidr_block" {
